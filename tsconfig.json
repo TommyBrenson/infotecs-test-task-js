@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "strict": true,
+        "module": "ES2015",
+        "moduleResolution": "node",
+    },
+    "compileOnSave": true,
+    "include": ["tests", "utils"],
+    "exclude": ["node_modules"],
+}

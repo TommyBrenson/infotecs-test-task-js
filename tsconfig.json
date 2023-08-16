@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         "target": "ES6",
-        "strict": true,
+        "strict": false,
         "module": "ES2015",
         "moduleResolution": "node",
     },
